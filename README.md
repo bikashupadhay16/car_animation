@@ -1,39 +1,40 @@
-Moving Car Animation Project
-This project implements an animation of a moving car using computer graphics techniques. The animation is created using a graphics library such as pygame and can be run as a standalone application.
+# Moving Car Animation
 
-Prerequisites
-Before you start, you will need to have the following software installed on your computer:
+This is a simple project that uses HTML, CSS and JavaScript to create an animation of a car moving across the screen.
 
-Python 3
-Pygame library (install using pip install pygame)
-Running the Project
-To run the project, follow these steps:
 
-Clone the repository to your local machine using the following command:
-bash
-Copy code
-git clone https://github.com/[username]/moving-car-animation.git
-Change into the project directory using the following command:
-bash
-Copy code
-cd moving-car-animation
-Run the project using the following command:
-Copy code
-python moving_car_animation.py
-Project Structure
-The project consists of the following files:
+## Getting Started
 
-moving_car_animation.py: The main Python script that implements the animation.
-car.png: Image file used to display the car in the animation.
-Contributing
-If you would like to contribute to this project, please follow these guidelines:
+To get started, you will need a code editor and a web browser. You can use any code editor of your choice, such as Visual Studio Code, Sublime Text, or Atom. You can also use any web browser, such as Google Chrome, Mozilla Firefox, or Microsoft Edge
+## Installation
 
-Fork the repository to your own GitHub account.
-Clone the repository to your local machine.
-Create a new branch for your changes.
-Make your changes and test them thoroughly.
-Commit your changes with a descriptive commit message.
-Push your changes to your fork on GitHub.
-Submit a pull request to the original repository.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+1. Download the project files from GitHub
+2. Extract the files to a directory on your computer
+3. Open the index.html file in your web browser
+    
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+## Usage/Examples
+
+Once you have opened the index.html file in your web browser, you will see a car moving across the screen. You can use the following controls to adjust the animation:
+
+1. Start: Click the "Start" button to start the animation
+2. Stop: Click the "Stop" button to stop the animation
+3. Faster: Click the "Faster" button to speed up the animation
+4. Slower: Click the "Slower" button to slow down the animation
+
+You can also customize the animation by adjusting the CSS 6. properties in the style.css file
+
+
+## Credits
+ 
+ This project was created by [Bikash Upadhaya].
+ 
+## 🔗 Links
+
+[![twitter](https://twitter.com/biggybik)](https://twitter.com/)
+
+
